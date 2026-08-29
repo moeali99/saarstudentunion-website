@@ -1,0 +1,621 @@
+{
+  "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+  "members": [
+    {
+      "photo": "images/team/portraits/fadi-othman.png",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Fadi Othman",
+        "en": "Fadi Othman",
+        "ar": "Fadi Othman"
+      },
+      "role": {
+        "de": "Vorsitzender · M.Sc. Medizinische Physik · HTW Saar",
+        "en": "Chair · M.Sc. medical physics · HTW Saar",
+        "ar": "رئيس المجلس · ماجستير فيزياء طبية · HTW سار"
+      },
+      "excerpt": {
+        "de": "Gründete die Union aus Studierenden-Alltag heraus — vernetzt akademisch & sozial und unterstützt internationale Kommiliton*innen.",
+        "en": "Founded the union from real student life — connects peers academically & socially and backs international students.",
+        "ar": "أسس الاتحاد من واقع الحياة الطلابية — يربط الأقران أكاديميًا واجتماعيًا ويدعم الطلاب الدوليين."
+      },
+      "detail": {
+        "de": "Fadi Othman — Vorsitzender · M.Sc. Medizinische Physik · HTW Saar.\n\nGründete die Union aus Studierenden-Alltag heraus — vernetzt akademisch & sozial und unterstützt internationale Kommiliton*innen.\n\nFadi engagiert sich in der Saar Students Union e.V. gemeinsam mit dem Team für Orientierung, Vernetzung und eine starke Studierendenschaft in der Region.",
+        "en": "Fadi Othman — Chair · M.Sc. medical physics · HTW Saar.\n\nFounded the union from real student life — connects peers academically & socially and backs international students.\n\nFadi volunteers with Saar Students Union to improve orientation, connection, and community for students in the region.",
+        "ar": "Fadi Othman — رئيس المجلس · ماجستير فيزياء طبية · HTW سار.\n\nأسس الاتحاد من واقع الحياة الطلابية — يربط الأقران أكاديميًا واجتماعيًا ويدعم الطلاب الدوليين.\n\nFadi يشارك في اتحاد طلاب سار مع الفريق من أجل التوجيه والتواصل وتعزيز مجتمع الطلاب في المنطقة."
+      }
+    },
+    {
+      "photo": "images/team/portraits/mohamed-ali-aladani.png",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Mohamed Ali Aladani",
+        "en": "Mohamed Ali Aladani",
+        "ar": "Mohamed Ali Aladani"
+      },
+      "role": {
+        "de": "Stellvertretender Vorsitzender · Gründungsmitglied · Praktische Informatik · HTW Saar",
+        "en": "Vice chair · Founding member · Applied computer science · HTW Saar",
+        "ar": "نائب الرئيس · عضو مؤسس · معلوماتية تطبيقية · HTW سار"
+      },
+      "excerpt": {
+        "de": "Stellvertretender Vorsitzender — unterstützt den Vorsitz in Strategie und Projektalltag; Schwerpunkte: Kooperation, Initiativen, internationale Studierende.",
+        "en": "Vice chair — supports the chair on strategy and day-to-day projects; focus on collaboration, initiatives, and international students.",
+        "ar": "نائب الرئيس — يدعم الرئيس في الاستراتيجية والمشاريع اليومية؛ يركز على التعاون والمبادرات والطلاب الدوليين."
+      },
+      "detail": {
+        "de": "Mohamed Ali Aladani ist stellvertretender Vorsitzender und Gründungsmitglied der Saar Students Union; er studiert Praktische Informatik an der HTW Saar. Er unterstützt den Vorsitz in organisatorischen und strategischen Fragen, treibt Initiativen mit vor und setzt sich für die Integration neuer und internationaler Studierender ein.\n\nMohamed engagiert sich in der Saar Students Union e.V. gemeinsam mit dem Team für Orientierung, Vernetzung und eine starke Studierendenschaft in der Region.",
+        "en": "Mohamed Ali Aladani is vice chair and a founding member of Saar Students Union; he studies applied computer science at HTW Saar. He backs the chair on organizational and strategic topics, advances initiatives, and works to integrate new and international students.\n\nMohamed volunteers with Saar Students Union to improve orientation, connection, and community for students in the region.",
+        "ar": "Mohamed Ali Aladani نائب رئيس وعضو مؤسس في اتحاد طلاب سار؛ يدرس المعلوماتية التطبيقية في HTW سار. يدعم الرئيس في الجوانب التنظيمية والاستراتيجية، ويقود مبادرات، ويعمل على دمج الطلاب الجدد والدوليين.\n\nMohamed يشارك في اتحاد طلاب سار مع الفريق من أجل التوجيه والتواصل وتعزيز مجتمع الطلاب في المنطقة."
+      }
+    },
+    {
+      "photo": "images/team/portraits/hiba-mahmalat.png",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Hiba Mahmalat",
+        "en": "Hiba Mahmalat",
+        "ar": "Hiba Mahmalat"
+      },
+      "role": {
+        "de": "Stellvertretende Vorsitzende · Integrationshelferin · Frauenbeauftragte",
+        "en": "Vice chair · Integration support · Women’s representative",
+        "ar": "نائبة الرئيس · مساعدة اندماج · مسؤولة عن شؤون الطالبات"
+      },
+      "excerpt": {
+        "de": "Stellvertretende Vorsitzende — unterstützt den Vorsitz; organisiert Formate, berät zu Integration und vertritt die Interessen von Studentinnen.",
+        "en": "Vice chair — supports the chair; runs formats, advises on integration, and advocates for women students’ interests.",
+        "ar": "نائبة الرئيس — تدعم الرئيسة أو الرئيس؛ تنظم الفعاليات وتستشير في الاندماج وتمثل مصالح الطالبات."
+      },
+      "detail": {
+        "de": "Hiba Mahmalat ist stellvertretende Vorsitzende der Saar Students Union sowie Integrationshelferin und Frauenbeauftragte. Sie unterstützt den Vorsitz in der Vereinsarbeit, organisiert Veranstaltungen, berät zu Fragen der Integration und bündelt die Interessen von Studentinnen.\n\nHiba engagiert sich in der Saar Students Union e.V. gemeinsam mit dem Team für Orientierung, Vernetzung und eine starke Studierendenschaft in der Region.",
+        "en": "Hiba Mahmalat is vice chair of Saar Students Union as well as integration support and women’s representative. She backs the chair in union work, runs events, advises on integration, and advocates for women students’ interests.\n\nHiba volunteers with Saar Students Union to improve orientation, connection, and community for students in the region.",
+        "ar": "Hiba Mahmalat نائبة رئيس في اتحاد طلاب سار، ومساعدة اندماج ومسؤولة عن شؤون الطالبات. تدعم الرئيس في عمل الاتحاد، وتنظم الفعاليات، وتستشير في الاندماج، وتمثل مصالح الطالبات.\n\nHiba تشارك في اتحاد طلاب سار مع الفريق من أجل التوجيه والتواصل وتعزيز مجتمع الطلاب في المنطقة."
+      }
+    },
+    {
+      "photo": "images/team/portraits/nouhaila-laanani.png",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Nouhaila Laanani",
+        "en": "Nouhaila Laanani",
+        "ar": "Nouhaila Laanani"
+      },
+      "role": {
+        "de": "Mitgründerin · M.Sc. Marketing Science",
+        "en": "Co-founder · M.Sc. marketing science",
+        "ar": "مؤسسة مشاركة · ماجستير علوم التسويق"
+      },
+      "excerpt": {
+        "de": "Mitgründerin mit Schwerpunkt Markenaufbau, Social Media und digitaler Sichtbarkeit für Studierende.",
+        "en": "Co-founder focused on brand building, social media, and digital visibility for students.",
+        "ar": "مؤسسة مشاركة تركز على بناء العلامة والسوشال ميديا والظهور الرقمي للطلاب."
+      },
+      "detail": {
+        "de": "Nouhaila Laanani ist Mitgründerin der Saar Students Union und studiert M.Sc. Marketing Science. Mit klarem Blick für Markenaufbau entwickelt sie kreative Content-Strategien, stärkt digitale Identitäten und bringt studentische Stimmen auf Social Media nach vorne. Für sie bedeutet Engagement, Studierende sichtbar zu machen und Gemeinschaft aktiv zu gestalten.",
+        "en": "Nouhaila Laanani is a co-founder of Saar Students Union and studies M.Sc. Marketing Science. With a clear eye for brand building, she develops creative content strategies, strengthens digital identities, and brings student voices to social media. For her, engagement means making students visible and actively shaping community.",
+        "ar": "نوهيلة العناني مؤسسة مشاركة في اتحاد طلاب سار وتدرس ماجستير علوم التسويق. تركز على بناء الهوية واستراتيجيات المحتوى وتعزيز الوجود الرقمي وإبراز أصوات الطلاب على وسائل التواصل. بالنسبة لها يعني العمل جعل الطلاب ظاهرين وبناء مجتمع فعّال."
+      }
+    },
+    {
+      "photo": "images/team/portraits/chaymae-chahbar.png",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Chaymae Chahbar",
+        "en": "Chaymae Chahbar",
+        "ar": "Chaymae Chahbar"
+      },
+      "role": {
+        "de": "Mitgründerin · Elektro- und Informationstechnik",
+        "en": "Co-founder · Electrical engineering & IT",
+        "ar": "مؤسسة مشاركة · هندسة كهربائية وتقنية معلومات"
+      },
+      "excerpt": {
+        "de": "Mitgründerin — aus dem Studienalltag heraus stark für Gemeinschaft und internationale Studierende.",
+        "en": "Co-founder — from everyday student life, champions community and international students.",
+        "ar": "مؤسسة مشاركة — من واقع الحياة الطلابية تدعم المجتمع والطلاب الدوليين."
+      },
+      "detail": {
+        "de": "Chaymae Chahbar ist Mitgründerin der Saar Students Union und studiert Elektro- und Informationstechnik. Aus ihren eigenen Erfahrungen im Studienalltag weiß sie, wie wichtig Unterstützung und Gemeinschaft sind. Sie engagiert sich besonders für die Stärkung von Studierenden — mit Fokus auf internationale Kommiliton*innen.",
+        "en": "Chaymae Chahbar is a co-founder of Saar Students Union and studies electrical engineering and information technology. From her own student experience she knows how vital support and community are. She focuses on strengthening students, especially international peers.",
+        "ar": "شيماء شهبار مؤسسة مشاركة في اتحاد طلاب سار وتدرس الهندسة الكهربائية وتقنية المعلومات. من تجربتها تعرف أهمية الدعم والمجتمع الطلابي. تعمل على تمكين الطلاب وخصوصًا الدوليين منهم."
+      }
+    },
+    {
+      "photo": "images/team/portraits/alaa-alhasan.png",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Alaa Alhasan",
+        "en": "Alaa Alhasan",
+        "ar": "Alaa Alhasan"
+      },
+      "role": {
+        "de": "Mitglied · Praktische Informatik · Events",
+        "en": "Member · Applied computer science · Events",
+        "ar": "عضو · معلوماتية تطبيقية · فعاليات"
+      },
+      "excerpt": {
+        "de": "Begleitet bei Events und Fragen im Studium — stärkt Orientierung und studentisches Miteinander.",
+        "en": "Helps with events and study questions — strengthens orientation and student community.",
+        "ar": "يساعد في الفعاليات وأسئلة الدراسة — يعزز التوجه والتعاون الطلابي."
+      },
+      "detail": {
+        "de": "Alaa Alhasan — Mitglied · Praktische Informatik · Events.\n\nBegleitet bei Events und Fragen im Studium — stärkt Orientierung und studentisches Miteinander.\n\nAlaa engagiert sich in der Saar Students Union e.V. gemeinsam mit dem Team für Orientierung, Vernetzung und eine starke Studierendenschaft in der Region.",
+        "en": "Alaa Alhasan — Member · Applied computer science · Events.\n\nHelps with events and study questions — strengthens orientation and student community.\n\nAlaa volunteers with Saar Students Union to improve orientation, connection, and community for students in the region.",
+        "ar": "Alaa Alhasan — عضو · معلوماتية تطبيقية · فعاليات.\n\nيساعد في الفعاليات وأسئلة الدراسة — يعزز التوجه والتعاون الطلابي.\n\nAlaa يشارك في اتحاد طلاب سار مع الفريق من أجل التوجيه والتواصل وتعزيز مجتمع الطلاب في المنطقة."
+      }
+    },
+    {
+      "photo": "images/team/portraits/alissar-alzaher.png",
+      "photoSize": 136,
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Alissar Alzaher",
+        "en": "Alissar Alzaher",
+        "ar": "Alissar Alzaher"
+      },
+      "role": {
+        "de": "Mitglied · Praktische Informatik",
+        "en": "Member · Applied computer science",
+        "ar": "عضوة · معلوماتية تطبيقية"
+      },
+      "excerpt": {
+        "de": "Setzt sich für ein respektvolles Hochschulklima, Mitbestimmung und transparente Interessenvertretung ein.",
+        "en": "Works for an inclusive campus climate, co-determination, and transparent student representation.",
+        "ar": "تعمل من أجل بيئة جامعية شاملة والمشاركة في القرار والتمثيل الشفاف."
+      },
+      "detail": {
+        "de": "Alissar Alzaher — Mitglied · Praktische Informatik.\n\nSetzt sich für ein respektvolles Hochschulklima, Mitbestimmung und transparente Interessenvertretung ein.\n\nAlissar engagiert sich in der Saar Students Union e.V. gemeinsam mit dem Team für Orientierung, Vernetzung und eine starke Studierendenschaft in der Region.",
+        "en": "Alissar Alzaher — Member · Applied computer science.\n\nWorks for an inclusive campus climate, co-determination, and transparent student representation.\n\nAlissar volunteers with Saar Students Union to improve orientation, connection, and community for students in the region.",
+        "ar": "Alissar Alzaher — عضوة · معلوماتية تطبيقية.\n\nتعمل من أجل بيئة جامعية شاملة والمشاركة في القرار والتمثيل الشفاف.\n\nAlissar يشارك في اتحاد طلاب سار مع الفريق من أجل التوجيه والتواصل وتعزيز مجتمع الطلاب في المنطقة."
+      }
+    },
+    {
+      "photo": "images/team/portraits/alona.png",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Alona",
+        "en": "Alona",
+        "ar": "Alona"
+      },
+      "role": {
+        "de": "Mitglied · Soziale Arbeit (B.) · HTW Saar",
+        "en": "Member · Social work (B.A.) · HTW Saar",
+        "ar": "عضوة · عمل اجتماعي (بكالوريوس) · HTW سار"
+      },
+      "excerpt": {
+        "de": "Unterstützt mit Übersetzungen (Ukrainisch/Russisch) Studierende aus der Ukraine — Soziale Arbeit an der HTW.",
+        "en": "Supports Ukrainian students with Ukrainian/Russian translation — social work at HTW.",
+        "ar": "تدعم الطلاب الأوكرانيين بالترجمة (الأوكرانية/الروسية) — عمل اجتماعي في HTW."
+      },
+      "detail": {
+        "de": "Alona — Mitglied · Soziale Arbeit (B.) · HTW Saar.\n\nUnterstützt mit Übersetzungen (Ukrainisch/Russisch) Studierende aus der Ukraine — Soziale Arbeit an der HTW.\n\nAlona engagiert sich in der Saar Students Union e.V. gemeinsam mit dem Team für Orientierung, Vernetzung und eine starke Studierendenschaft in der Region.",
+        "en": "Alona — Member · Social work (B.A.) · HTW Saar.\n\nSupports Ukrainian students with Ukrainian/Russian translation — social work at HTW.\n\nAlona volunteers with Saar Students Union to improve orientation, connection, and community for students in the region.",
+        "ar": "Alona — عضوة · عمل اجتماعي (بكالوريوس) · HTW سار.\n\nتدعم الطلاب الأوكرانيين بالترجمة (الأوكرانية/الروسية) — عمل اجتماعي في HTW.\n\nAlona يشارك في اتحاد طلاب سار مع الفريق من أجل التوجيه والتواصل وتعزيز مجتمع الطلاب في المنطقة."
+      }
+    },
+    {
+      "photo": "images/team/portraits/ammar-abdulwahab.png",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Ammar Abdulwahab",
+        "en": "Ammar Abdulwahab",
+        "ar": "Ammar Abdulwahab"
+      },
+      "role": {
+        "de": "Mitgründer · Schriftführer · Praktische Informatik",
+        "en": "Co-founder · Secretary · Applied computer science",
+        "ar": "مؤسس مشارك · أمين سر · معلوماتية تطبيقية"
+      },
+      "excerpt": {
+        "de": "Mitgründer & Schriftführer — möchte anderen die Unterstützung zurückgeben, die ihm selbst geholfen hat.",
+        "en": "Co-founder & secretary — pays forward the support he once received from others.",
+        "ar": "مؤسس مشارك وأمين سر — يعيد الدعم الذي تلقاه ذات يوم للآخرين."
+      },
+      "detail": {
+        "de": "Ammar Abdulwahab — Mitgründer · Schriftführer · Praktische Informatik.\n\nMitgründer & Schriftführer — möchte anderen die Unterstützung zurückgeben, die ihm selbst geholfen hat.\n\nAmmar engagiert sich in der Saar Students Union e.V. gemeinsam mit dem Team für Orientierung, Vernetzung und eine starke Studierendenschaft in der Region.",
+        "en": "Ammar Abdulwahab — Co-founder · Secretary · Applied computer science.\n\nCo-founder & secretary — pays forward the support he once received from others.\n\nAmmar volunteers with Saar Students Union to improve orientation, connection, and community for students in the region.",
+        "ar": "Ammar Abdulwahab — مؤسس مشارك · أمين سر · معلوماتية تطبيقية.\n\nمؤسس مشارك وأمين سر — يعيد الدعم الذي تلقاه ذات يوم للآخرين.\n\nAmmar يشارك في اتحاد طلاب سار مع الفريق من أجل التوجيه والتواصل وتعزيز مجتمع الطلاب في المنطقة."
+      }
+    },
+    {
+      "photo": "images/team/portraits/aya-alabbasi.png",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Aya Alabbasi",
+        "en": "Aya Alabbasi",
+        "ar": "Aya Alabbasi"
+      },
+      "role": {
+        "de": "Sponsoring & Finanzen · BWL · Universität des Saarlandes",
+        "en": "Sponsoring & finance · Business administration · Saarland University",
+        "ar": "رعاية ومالية · إدارة أعمال · جامعة السار"
+      },
+      "excerpt": {
+        "de": "Sponsoring & Finanzen — engagiert sich auch für Studienfinanzierung, AStA und bundesweiten BAföG-Beirat.",
+        "en": "Sponsoring & finance — also active on study funding, AStA, and the national BAföG advisory board.",
+        "ar": "رعاية ومالية — نشطة أيضًا في تمويل الدراسة والأستا والمجلس الاستشاري لـ BAföG."
+      },
+      "detail": {
+        "de": "Aya Alabbasi — Sponsoring & Finanzen · BWL · Universität des Saarlandes.\n\nSponsoring & Finanzen — engagiert sich auch für Studienfinanzierung, AStA und bundesweiten BAföG-Beirat.\n\nAya engagiert sich in der Saar Students Union e.V. gemeinsam mit dem Team für Orientierung, Vernetzung und eine starke Studierendenschaft in der Region.",
+        "en": "Aya Alabbasi — Sponsoring & finance · Business administration · Saarland University.\n\nSponsoring & finance — also active on study funding, AStA, and the national BAföG advisory board.\n\nAya volunteers with Saar Students Union to improve orientation, connection, and community for students in the region.",
+        "ar": "Aya Alabbasi — رعاية ومالية · إدارة أعمال · جامعة السار.\n\nرعاية ومالية — نشطة أيضًا في تمويل الدراسة والأستا والمجلس الاستشاري لـ BAföG.\n\nAya يشارك في اتحاد طلاب سار مع الفريق من أجل التوجيه والتواصل وتعزيز مجتمع الطلاب في المنطقة."
+      }
+    },
+    {
+      "photo": "images/team/portraits/bashar-al-shareef.svg",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Bashar Al Shareef",
+        "en": "Bashar Al Shareef",
+        "ar": "Bashar Al Shareef"
+      },
+      "role": {
+        "de": "Mitgründer · M.Sc. Medizinische Physik · htw saar",
+        "en": "Co-founder · M.Sc. medical physics · htw saar",
+        "ar": "مؤسس مشارك · ماجستير فيزياء طبية · htw سار"
+      },
+      "excerpt": {
+        "de": "Engagiert sich seit 2020 für Studierende an der htw saar — Fokus internationale Kommiliton*innen im Saarland.",
+        "en": "Volunteering for HTW Saar students since 2020 — especially international peers in Saarland.",
+        "ar": "متطوع لطلاب HTW سار منذ 2020 — خصوصًا الطلاب الدوليين في السارلاند."
+      },
+      "detail": {
+        "de": "Bashar Al Shareef — Mitgründer · M.Sc. Medizinische Physik · htw saar.\n\nEngagiert sich seit 2020 für Studierende an der htw saar — Fokus internationale Kommiliton*innen im Saarland.\n\nBashar engagiert sich in der Saar Students Union e.V. gemeinsam mit dem Team für Orientierung, Vernetzung und eine starke Studierendenschaft in der Region.",
+        "en": "Bashar Al Shareef — Co-founder · M.Sc. medical physics · htw saar.\n\nVolunteering for HTW Saar students since 2020 — especially international peers in Saarland.\n\nBashar volunteers with Saar Students Union to improve orientation, connection, and community for students in the region.",
+        "ar": "Bashar Al Shareef — مؤسس مشارك · ماجستير فيزياء طبية · htw سار.\n\nمتطوع لطلاب HTW سار منذ 2020 — خصوصًا الطلاب الدوليين في السارلاند.\n\nBashar يشارك في اتحاد طلاب سار مع الفريق من أجل التوجيه والتواصل وتعزيز مجتمع الطلاب في المنطقة."
+      }
+    },
+    {
+      "photo": "images/team/portraits/braa-al-shaaref.png",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Braa Al Shaaref",
+        "en": "Braa Al Shaaref",
+        "ar": "Braa Al Shaaref"
+      },
+      "role": {
+        "de": "Finanzen · Wirtschaftsingenieurwesen",
+        "en": "Finance · Industrial engineering",
+        "ar": "مالية · هندسة صناعية"
+      },
+      "excerpt": {
+        "de": "Bringt Wirtschaftsingenieurwesen in die Finanzen ein — Transparenz, Organisation und Austausch zwischen Studierenden.",
+        "en": "Applies industrial engineering to finance — transparency, organisation, and peer exchange.",
+        "ar": "يطبق الهندسة الصناعية على المالية — الشفافية والتنظيم والتبادل بين الطلاب."
+      },
+      "detail": {
+        "de": "Braa Al Shaaref — Finanzen · Wirtschaftsingenieurwesen.\n\nBringt Wirtschaftsingenieurwesen in die Finanzen ein — Transparenz, Organisation und Austausch zwischen Studierenden.\n\nBraa engagiert sich in der Saar Students Union e.V. gemeinsam mit dem Team für Orientierung, Vernetzung und eine starke Studierendenschaft in der Region.",
+        "en": "Braa Al Shaaref — Finance · Industrial engineering.\n\nApplies industrial engineering to finance — transparency, organisation, and peer exchange.\n\nBraa volunteers with Saar Students Union to improve orientation, connection, and community for students in the region.",
+        "ar": "Braa Al Shaaref — مالية · هندسة صناعية.\n\nيطبق الهندسة الصناعية على المالية — الشفافية والتنظيم والتبادل بين الطلاب.\n\nBraa يشارك في اتحاد طلاب سار مع الفريق من أجل التوجيه والتواصل وتعزيز مجتمع الطلاب في المنطقة."
+      }
+    },
+    {
+      "photo": "images/team/portraits/esraa-al-mahamed.png",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Esraa Al Mahamed",
+        "en": "Esraa Al Mahamed",
+        "ar": "Esraa Al Mahamed"
+      },
+      "role": {
+        "de": "Psychologische Beratung · Biomedizintechnik",
+        "en": "Psychological counselling · Biomedical engineering",
+        "ar": "إرشاد نفسي · هندسة طبية حيوية"
+      },
+      "excerpt": {
+        "de": "Psychologische Beratung — unterstützt bei Studium, Alltag und psychischen Herausforderungen ehrenamtlich.",
+        "en": "Psychological counselling — volunteers to help with studies, daily life, and wellbeing.",
+        "ar": "إرشاد نفسي — يدعم التحديات الدراسية واليومية والنفسية بشكل تطوعي."
+      },
+      "detail": {
+        "de": "Esraa Al Mahamed — Psychologische Beratung · Biomedizintechnik.\n\nPsychologische Beratung — unterstützt bei Studium, Alltag und psychischen Herausforderungen ehrenamtlich.\n\nEsraa engagiert sich in der Saar Students Union e.V. gemeinsam mit dem Team für Orientierung, Vernetzung und eine starke Studierendenschaft in der Region.",
+        "en": "Esraa Al Mahamed — Psychological counselling · Biomedical engineering.\n\nPsychological counselling — volunteers to help with studies, daily life, and wellbeing.\n\nEsraa volunteers with Saar Students Union to improve orientation, connection, and community for students in the region.",
+        "ar": "Esraa Al Mahamed — إرشاد نفسي · هندسة طبية حيوية.\n\nإرشاد نفسي — يدعم التحديات الدراسية واليومية والنفسية بشكل تطوعي.\n\nEsraa يشارك في اتحاد طلاب سار مع الفريق من أجل التوجيه والتواصل وتعزيز مجتمع الطلاب في المنطقة."
+      }
+    },
+    {
+      "photo": "images/team/portraits/lava-haman.png",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Lava Haman",
+        "en": "Lava Haman",
+        "ar": "Lava Haman"
+      },
+      "role": {
+        "de": "Moderation · Digital Business und IT · htw saar",
+        "en": "Moderation · Digital business & IT · htw saar",
+        "ar": "إدارة جلسات · أعمال رقمية وتقنية معلومات · htw سار"
+      },
+      "excerpt": {
+        "de": "Moderation & digitale Medien — macht Studieninfos verständlich und stärkt die Community-Stimme.",
+        "en": "Moderation & digital media — makes study info clear and amplifies the community voice.",
+        "ar": "إدارة جلسات وإعلام رقمي — يوضح معلومات الدراسة ويعزز صوت المجتمع."
+      },
+      "detail": {
+        "de": "Lava Haman — Moderation · Digital Business und IT · htw saar.\n\nModeration & digitale Medien — macht Studieninfos verständlich und stärkt die Community-Stimme.\n\nLava engagiert sich in der Saar Students Union e.V. gemeinsam mit dem Team für Orientierung, Vernetzung und eine starke Studierendenschaft in der Region.",
+        "en": "Lava Haman — Moderation · Digital business & IT · htw saar.\n\nModeration & digital media — makes study info clear and amplifies the community voice.\n\nLava volunteers with Saar Students Union to improve orientation, connection, and community for students in the region.",
+        "ar": "Lava Haman — إدارة جلسات · أعمال رقمية وتقنية معلومات · htw سار.\n\nإدارة جلسات وإعلام رقمي — يوضح معلومات الدراسة ويعزز صوت المجتمع.\n\nLava يشارك في اتحاد طلاب سار مع الفريق من أجل التوجيه والتواصل وتعزيز مجتمع الطلاب في المنطقة."
+      }
+    },
+    {
+      "photo": "images/team/portraits/leen-alkhadraa.png",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Leen Alkhadraa",
+        "en": "Leen Alkhadraa",
+        "ar": "Leen Alkhadraa"
+      },
+      "role": {
+        "de": "Mitgründerin · M.Sc. Praktische Informatik",
+        "en": "Co-founder · M.Sc. applied computer science",
+        "ar": "مؤسسة مشاركة · ماجستير معلوماتية تطبيقية"
+      },
+      "excerpt": {
+        "de": "Mitgründerin — IT, Vereinswebsite und digitale Tools, damit Informationen für Studierende leichter erreichbar sind.",
+        "en": "Co-founder — IT, association website, and digital tools to make information easier to access.",
+        "ar": "مؤسسة مشاركة — تقنية المعلومات وموقع الجمعية وأدوات رقمية لتسهيل الوصول للمعلومات."
+      },
+      "detail": {
+        "de": "Leen Alkhadraa — Mitgründerin · M.Sc. Praktische Informatik.\n\nMitgründerin — IT, Vereinswebsite und digitale Tools, damit Informationen für Studierende leichter erreichbar sind.\n\nLeen engagiert sich in der Saar Students Union e.V. gemeinsam mit dem Team für Orientierung, Vernetzung und eine starke Studierendenschaft in der Region.",
+        "en": "Leen Alkhadraa — Co-founder · M.Sc. applied computer science.\n\nCo-founder — IT, association website, and digital tools to make information easier to access.\n\nLeen volunteers with Saar Students Union to improve orientation, connection, and community for students in the region.",
+        "ar": "Leen Alkhadraa — مؤسسة مشاركة · ماجستير معلوماتية تطبيقية.\n\nمؤسسة مشاركة — تقنية المعلومات وموقع الجمعية وأدوات رقمية لتسهيل الوصول للمعلومات.\n\nLeen يشارك في اتحاد طلاب سار مع الفريق من أجل التوجيه والتواصل وتعزيز مجتمع الطلاب في المنطقة."
+      }
+    },
+    {
+      "photo": "images/team/portraits/lubana.png",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Lubana",
+        "en": "Lubana",
+        "ar": "Lubana"
+      },
+      "role": {
+        "de": "Telekommunikationstechnik (M.) · Social & Lerntipps",
+        "en": "Telecommunications engineering (M.A.) · Study tips & social",
+        "ar": "هندسة اتصالات (ماجستير) · نصائح دراسية وتواصل"
+      },
+      "excerpt": {
+        "de": "Masterstudentin — teilt Lerntipps, Zeitmanagement und Erfahrungen für einen strukturierteren Studienalltag.",
+        "en": "Master’s student — shares study tips, time management, and experience for a calmer routine.",
+        "ar": "طالبة ماجستير — تشارك نصائح الدراسة وإدارة الوقت لتنظيم الحياة الجامعية."
+      },
+      "detail": {
+        "de": "Lubana — Telekommunikationstechnik (M.) · Social & Lerntipps.\n\nMasterstudentin — teilt Lerntipps, Zeitmanagement und Erfahrungen für einen strukturierteren Studienalltag.\n\nLubana engagiert sich in der Saar Students Union e.V. gemeinsam mit dem Team für Orientierung, Vernetzung und eine starke Studierendenschaft in der Region.",
+        "en": "Lubana — Telecommunications engineering (M.A.) · Study tips & social.\n\nMaster’s student — shares study tips, time management, and experience for a calmer routine.\n\nLubana volunteers with Saar Students Union to improve orientation, connection, and community for students in the region.",
+        "ar": "Lubana — هندسة اتصالات (ماجستير) · نصائح دراسية وتواصل.\n\nطالبة ماجستير — تشارك نصائح الدراسة وإدارة الوقت لتنظيم الحياة الجامعية.\n\nLubana يشارك في اتحاد طلاب سار مع الفريق من أجل التوجيه والتواصل وتعزيز مجتمع الطلاب في المنطقة."
+      }
+    },
+    {
+      "photo": "images/team/portraits/mustafa-barout.png",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Mustafa Barout",
+        "en": "Mustafa Barout",
+        "ar": "Mustafa Barout"
+      },
+      "role": {
+        "de": "Web- & App-Entwicklung (Android/iOS)",
+        "en": "Web & app development (Android/iOS)",
+        "ar": "تطوير ويب وتطبيقات (أندرويد/iOS)"
+      },
+      "excerpt": {
+        "de": "Entwickelt die Android- & iOS-App der Union — vernetzt intern und erleichtert studentische Services.",
+        "en": "Builds the union’s Android & iOS app — improves internal networking and student services.",
+        "ar": "يطور تطبيق أندرويد وآي أو إس للاتحاد — يحسن التواصل الداخلي وخدمات الطلاب."
+      },
+      "detail": {
+        "de": "Mustafa Barout — Web- & App-Entwicklung (Android/iOS).\n\nEntwickelt die Android- & iOS-App der Union — vernetzt intern und erleichtert studentische Services.\n\nMustafa engagiert sich in der Saar Students Union e.V. gemeinsam mit dem Team für Orientierung, Vernetzung und eine starke Studierendenschaft in der Region.",
+        "en": "Mustafa Barout — Web & app development (Android/iOS).\n\nBuilds the union’s Android & iOS app — improves internal networking and student services.\n\nMustafa volunteers with Saar Students Union to improve orientation, connection, and community for students in the region.",
+        "ar": "Mustafa Barout — تطوير ويب وتطبيقات (أندرويد/iOS).\n\nيطور تطبيق أندرويد وآي أو إس للاتحاد — يحسن التواصل الداخلي وخدمات الطلاب.\n\nMustafa يشارك في اتحاد طلاب سار مع الفريق من أجل التوجيه والتواصل وتعزيز مجتمع الطلاب في المنطقة."
+      }
+    },
+    {
+      "photo": "images/team/portraits/raghad-sahhary.png",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Raghad Sahhary",
+        "en": "Raghad Sahhary",
+        "ar": "Raghad Sahhary"
+      },
+      "role": {
+        "de": "Social Media · Biomedizinische Technik · HTW Saar",
+        "en": "Social media · Biomedical engineering · HTW Saar",
+        "ar": "وسائل تواصل · هندسة طبية حيوية · HTW سار"
+      },
+      "excerpt": {
+        "de": "Social Media mit Herz — vernetzt Studierende und baut eine offene Community für internationale Kommiliton*innen.",
+        "en": "Social media with heart — connects students and builds an open community for internationals.",
+        "ar": "سوشال ميديا بروح المجتمع — تربط الطلاب وتبني مجتمعًا مفتوحًا للدوليين."
+      },
+      "detail": {
+        "de": "Raghad Sahhary — Social Media · Biomedizinische Technik · HTW Saar.\n\nSocial Media mit Herz — vernetzt Studierende und baut eine offene Community für internationale Kommiliton*innen.\n\nRaghad engagiert sich in der Saar Students Union e.V. gemeinsam mit dem Team für Orientierung, Vernetzung und eine starke Studierendenschaft in der Region.",
+        "en": "Raghad Sahhary — Social media · Biomedical engineering · HTW Saar.\n\nSocial media with heart — connects students and builds an open community for internationals.\n\nRaghad volunteers with Saar Students Union to improve orientation, connection, and community for students in the region.",
+        "ar": "Raghad Sahhary — وسائل تواصل · هندسة طبية حيوية · HTW سار.\n\nسوشال ميديا بروح المجتمع — تربط الطلاب وتبني مجتمعًا مفتوحًا للدوليين.\n\nRaghad يشارك في اتحاد طلاب سار مع الفريق من أجل التوجيه والتواصل وتعزيز مجتمع الطلاب في المنطقة."
+      }
+    },
+    {
+      "photo": "images/team/portraits/reem-albaali.png",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Reem Albaali",
+        "en": "Reem Albaali",
+        "ar": "Reem Albaali"
+      },
+      "role": {
+        "de": "IT & Verwaltung · Praktische Informatik",
+        "en": "IT & administration · Applied computer science",
+        "ar": "تقنية معلومات وإدارة · معلوماتية تطبيقية"
+      },
+      "excerpt": {
+        "de": "IT & Verwaltung — optimiert digitale Abläufe und Web-/App-Lösungen für Organisation und Studierende.",
+        "en": "IT & admin — streamlines digital workflows and web/app solutions for the org and students.",
+        "ar": "تقنية معلومات وإدارة — تحسن السير الرقمي وحلول الويب/التطبيق للمنظمة وللطلاب."
+      },
+      "detail": {
+        "de": "Reem Albaali — IT & Verwaltung · Praktische Informatik.\n\nIT & Verwaltung — optimiert digitale Abläufe und Web-/App-Lösungen für Organisation und Studierende.\n\nReem engagiert sich in der Saar Students Union e.V. gemeinsam mit dem Team für Orientierung, Vernetzung und eine starke Studierendenschaft in der Region.",
+        "en": "Reem Albaali — IT & administration · Applied computer science.\n\nIT & admin — streamlines digital workflows and web/app solutions for the org and students.\n\nReem volunteers with Saar Students Union to improve orientation, connection, and community for students in the region.",
+        "ar": "Reem Albaali — تقنية معلومات وإدارة · معلوماتية تطبيقية.\n\nتقنية معلومات وإدارة — تحسن السير الرقمي وحلول الويب/التطبيق للمنظمة وللطلاب.\n\nReem يشارك في اتحاد طلاب سار مع الفريق من أجل التوجيه والتواصل وتعزيز مجتمع الطلاب في المنطقة."
+      }
+    },
+    {
+      "photo": "images/team/portraits/sulaiman-alhamoud.png",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Sulaiman Alhamoud",
+        "en": "Sulaiman Alhamoud",
+        "ar": "Sulaiman Alhamoud"
+      },
+      "role": {
+        "de": "Mitgründer · Soziale Arbeit & Kindheitspädagogik (B.)",
+        "en": "Co-founder · Social work & childhood pedagogy (B.A.)",
+        "ar": "مؤسس مشارك · عمل اجتماعي وتربية الطفولة (بكالوريوس)"
+      },
+      "excerpt": {
+        "de": "Mitgründer — baut Brücken für den Studienstart: akademische & soziale Kompetenzen für internationale Studierende.",
+        "en": "Co-founder — bridges the start of studies with academic and social skills for international students.",
+        "ar": "مؤسس مشارك — يبني جسور بداية الدراسة بالمهارات الأكاديمية والاجتماعية للطلاب الدوليين."
+      },
+      "detail": {
+        "de": "Sulaiman Alhamoud — Mitgründer · Soziale Arbeit & Kindheitspädagogik (B.).\n\nMitgründer — baut Brücken für den Studienstart: akademische & soziale Kompetenzen für internationale Studierende.\n\nSulaiman engagiert sich in der Saar Students Union e.V. gemeinsam mit dem Team für Orientierung, Vernetzung und eine starke Studierendenschaft in der Region.",
+        "en": "Sulaiman Alhamoud — Co-founder · Social work & childhood pedagogy (B.A.).\n\nCo-founder — bridges the start of studies with academic and social skills for international students.\n\nSulaiman volunteers with Saar Students Union to improve orientation, connection, and community for students in the region.",
+        "ar": "Sulaiman Alhamoud — مؤسس مشارك · عمل اجتماعي وتربية الطفولة (بكالوريوس).\n\nمؤسس مشارك — يبني جسور بداية الدراسة بالمهارات الأكاديمية والاجتماعية للطلاب الدوليين.\n\nSulaiman يشارك في اتحاد طلاب سار مع الفريق من أجل التوجيه والتواصل وتعزيز مجتمع الطلاب في المنطقة."
+      }
+    },
+    {
+      "photo": "images/team/portraits/walaa-al-halabi.png",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Walaa Al Halabi",
+        "en": "Walaa Al Halabi",
+        "ar": "Walaa Al Halabi"
+      },
+      "role": {
+        "de": "Mitgründerin · IT & digitale Projekte",
+        "en": "Co-founder · IT & digital projects",
+        "ar": "مؤسسة مشاركة · تقنية معلومات ومشاريع رقمية"
+      },
+      "excerpt": {
+        "de": "Mitgründerin — IT & digitale Projekte, die Hürden abbauen und Zugang zu Informationen erleichtern.",
+        "en": "Co-founder — IT & digital projects that lower barriers and simplify access to information.",
+        "ar": "مؤسسة مشاركة — تقنية معلومات ومشاريع رقمية تزيل العقبات وتسهل الوصول للمعلومات."
+      },
+      "detail": {
+        "de": "Walaa Al Halabi — Mitgründerin · IT & digitale Projekte.\n\nMitgründerin — IT & digitale Projekte, die Hürden abbauen und Zugang zu Informationen erleichtern.\n\nWalaa engagiert sich in der Saar Students Union e.V. gemeinsam mit dem Team für Orientierung, Vernetzung und eine starke Studierendenschaft in der Region.",
+        "en": "Walaa Al Halabi — Co-founder · IT & digital projects.\n\nCo-founder — IT & digital projects that lower barriers and simplify access to information.\n\nWalaa volunteers with Saar Students Union to improve orientation, connection, and community for students in the region.",
+        "ar": "Walaa Al Halabi — مؤسسة مشاركة · تقنية معلومات ومشاريع رقمية.\n\nمؤسسة مشاركة — تقنية معلومات ومشاريع رقمية تزيل العقبات وتسهل الوصول للمعلومات.\n\nWalaa يشارك في اتحاد طلاب سار مع الفريق من أجل التوجيه والتواصل وتعزيز مجتمع الطلاب في المنطقة."
+      }
+    },
+    {
+      "photo": "images/team/portraits/wesam-alhamoud.svg",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Wesam Alhamoud",
+        "en": "Wesam Alhamoud",
+        "ar": "Wesam Alhamoud"
+      },
+      "role": {
+        "de": "Verwaltung & Beratung · B.Eng. Erneuerbare Energien",
+        "en": "Administration & advising · B.Eng. renewable energy",
+        "ar": "إدارة واستشارات · هندسة طاقات متجددة (بكالوريوس)"
+      },
+      "excerpt": {
+        "de": "Beratung & Social Media — begleitet bei Studienfragen und stärkt Austausch in der Studierendengemeinschaft.",
+        "en": "Advising & social media — helps with study questions and strengthens the student community.",
+        "ar": "استشارات وسوشال ميديا — يدعم أسئلة الدراسة ويعزز تبادل المجتمع الطلابي."
+      },
+      "detail": {
+        "de": "Wesam Alhamoud — Verwaltung & Beratung · B.Eng. Erneuerbare Energien.\n\nBeratung & Social Media — begleitet bei Studienfragen und stärkt Austausch in der Studierendengemeinschaft.\n\nWesam engagiert sich in der Saar Students Union e.V. gemeinsam mit dem Team für Orientierung, Vernetzung und eine starke Studierendenschaft in der Region.",
+        "en": "Wesam Alhamoud — Administration & advising · B.Eng. renewable energy.\n\nAdvising & social media — helps with study questions and strengthens the student community.\n\nWesam volunteers with Saar Students Union to improve orientation, connection, and community for students in the region.",
+        "ar": "Wesam Alhamoud — إدارة واستشارات · هندسة طاقات متجددة (بكالوريوس).\n\nاستشارات وسوشال ميديا — يدعم أسئلة الدراسة ويعزز تبادل المجتمع الطلابي.\n\nWesam يشارك في اتحاد طلاب سار مع الفريق من أجل التوجيه والتواصل وتعزيز مجتمع الطلاب في المنطقة."
+      }
+    },
+    {
+      "photo": "images/team/portraits/yumna.png",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Yumna",
+        "en": "Yumna",
+        "ar": "Yumna"
+      },
+      "role": {
+        "de": "Freiwillige · Englischkurse",
+        "en": "Volunteer · English courses",
+        "ar": "متطوعة · دورات إنجليزية"
+      },
+      "excerpt": {
+        "de": "Freiwillige Englischkurse — stärkt akademisches Englisch für Ingenieur*innen und Geflüchtete im Studium.",
+        "en": "Volunteer English courses — boosts academic English for engineers and refugee-background students.",
+        "ar": "دورات إنجليزية تطوعية — تعزز الإنجليزية الأكاديمية للمهندسين وللطلاب ذوي خلفية لاجئين."
+      },
+      "detail": {
+        "de": "Yumna — Freiwillige · Englischkurse.\n\nFreiwillige Englischkurse — stärkt akademisches Englisch für Ingenieur*innen und Geflüchtete im Studium.\n\nYumna engagiert sich in der Saar Students Union e.V. gemeinsam mit dem Team für Orientierung, Vernetzung und eine starke Studierendenschaft in der Region.",
+        "en": "Yumna — Volunteer · English courses.\n\nVolunteer English courses — boosts academic English for engineers and refugee-background students.\n\nYumna volunteers with Saar Students Union to improve orientation, connection, and community for students in the region.",
+        "ar": "Yumna — متطوعة · دورات إنجليزية.\n\nدورات إنجليزية تطوعية — تعزز الإنجليزية الأكاديمية للمهندسين وللطلاب ذوي خلفية لاجئين.\n\nYumna يشارك في اتحاد طلاب سار مع الفريق من أجل التوجيه والتواصل وتعزيز مجتمع الطلاب في المنطقة."
+      }
+    }
+    ,
+    {
+      "photo": "images/team/portraits/amar-chahror.png",
+      "instagram": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "name": {
+        "de": "Amar Chahror",
+        "en": "Amar Chahror",
+        "ar": "Amar Chahror"
+      },
+      "role": {
+        "de": "IT & Verwaltung",
+        "en": "IT & administration",
+        "ar": "تقنية معلومات وإدارة"
+      },
+      "excerpt": {
+        "de": "Unterstützt das Team in der IT-Verwaltung und bei organisatorischen Aufgaben — für bessere digitale Abläufe.",
+        "en": "Supports the team in IT administration and organisational tasks — improving digital workflows.",
+        "ar": "يدعم الفريق في إدارة تقنية المعلومات والمهام التنظيمية — لتحسين سير العمل الرقمي."
+      },
+      "detail": {
+        "de": "Amar Chahror engagiert sich im Bereich der IT-Verwaltung der Saar Students Union und unterstützt das Team bei technischen und organisatorischen Aufgaben. Er trägt zur Optimierung digitaler Abläufe bei und steht Studierenden bei Fragen gerne zur Verfügung — insbesondere im Studienalltag.\n\nAmar engagiert sich in der Saar Students Union e.V. gemeinsam mit dem Team für Orientierung, Vernetzung und eine starke Studierendenschaft in der Region.",
+        "en": "Amar Chahror volunteers in the IT administration area of Saar Students Union and supports the team with technical and organisational tasks. He helps improve digital workflows and is happy to support students with questions — especially in everyday student life.\n\nAmar volunteers with Saar Students Union to improve orientation, connection, and community for students in the region.",
+        "ar": "ينشط Amar Chahror في مجال إدارة تقنية المعلومات في اتحاد طلاب سار ويدعم الفريق في المهام التقنية والتنظيمية. يساهم في تحسين سير العمل الرقمي، ويسعده مساعدة الطلاب والإجابة عن أسئلتهم — خصوصًا في الحياة الدراسية اليومية.\n\nAmar يشارك في اتحاد طلاب سار مع الفريق من أجل التوجيه والتواصل وتعزيز مجتمع الطلاب في المنطقة."
+      }
+    }
+  ],
+  "feed": [
+    {
+      "image": "images/feed/feed-1.svg",
+      "href": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "caption": {
+        "de": "Willkommen & Orientierung — erste Schritte am Campus und Tipps für neue Studierende. Mehr in Stories und Highlights.",
+        "en": "Welcome & orientation — first steps on campus and tips for new students. More in stories and highlights.",
+        "ar": "الترحيب والتوجيه — أولى الخطوات في الحرم ونصائح للطلاب الجدد. المزيد في القصص والمميزات."
+      }
+    },
+    {
+      "image": "images/feed/feed-2.svg",
+      "href": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "caption": {
+        "de": "Community & Vernetzung — Termine, Zusammenkünfte und Stimmen aus der Studierendenschaft.",
+        "en": "Community & connection — dates, meetups, and voices from the student body.",
+        "ar": "المجتمع والتواصل — مواعيد، لقاءات، وصوت من الطلاب."
+      }
+    },
+    {
+      "image": "images/feed/feed-3.svg",
+      "href": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "caption": {
+        "de": "Events & Aktionen — Rückblicke und Einladungen zu Formaten rund um Studium und Campus.",
+        "en": "Events & initiatives — recaps and invites to formats around study and campus life.",
+        "ar": "الفعاليات والمبادرات — تغطيات ودعوات لأنشطة الدراسة والحرم."
+      }
+    },
+    {
+      "image": "images/feed/feed-4.svg",
+      "href": "https://www.instagram.com/saarstudents.union?igsh=NTU5bW40ZzF1ZWtw",
+      "caption": {
+        "de": "Immer auf dem Laufenden — alle aktuellen Posts, Reels und Infos findet ihr auf @saarstudents.union.",
+        "en": "Stay up to date — all latest posts, reels, and updates are on @saarstudents.union.",
+        "ar": "ابقوا على اطلاع — أحدث المنشورات والريلز على @saarstudents.union."
+      }
+    }
+  ]
+}
